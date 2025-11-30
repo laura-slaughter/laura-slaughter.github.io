@@ -1,1 +1,5 @@
-# laura-slaughter.github.io
+# Laura Slaughter
+
+Hi! Welcome to my website :)
+
+laura-slaughter.github.io
