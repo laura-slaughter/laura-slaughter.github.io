@@ -1,5 +1,19 @@
 # Laura Slaughter
 
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0002-6908-4906"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0002-6908-4906
+    </a>
+
 Hi, I'm Laura Slaughter — a data scientist and researcher.
 
 ---
