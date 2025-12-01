@@ -38,7 +38,11 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-6908-4906
     </a>
-- [![Zotero](https://avatars.githubusercontent.com/u/891917?s=200&v=4)](https://www.zotero.org/laura.slaughter) https://www.zotero.org/laura.slaughter
+- <a href="https://www.zotero.org/laura.slaughter" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/891917?s=200&v=4" width="16" height="16" style="vertical-align:middle; margin-right:4px;">
+  https://www.zotero.org/laura.slaughter
+</a>
+
 
 
 
