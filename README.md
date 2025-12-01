@@ -38,9 +38,19 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-6908-4906
     </a>
-- <a href="https://www.zotero.org/users/1234567/username" target="_blank" style="display:inline-block; vertical-align:middle;">
-  <img src="https://www.zotero.org/styles/zotero-16.png" width="16" height="16" alt="Zotero">
+- <a
+    class="underline"
+    href="https://www.zotero.org/users/1234567/username"
+    target="_blank"
+    rel="me noopener noreferrer"
+    style="vertical-align: top;">
+  <img
+      src="https://www.zotero.org/styles/zotero-16.png"
+      style="width: 1em; margin-inline-start: 0.5em;"
+      alt="Zotero icon"/>
+  https://www.zotero.org/users/1234567/username
 </a>
+
 
 
     
