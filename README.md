@@ -6,10 +6,12 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
 
 ## Projects
 
-- **Frog Population Survey 2025** – Monitoring amphibians in local wetlands  
-- **Habitat Restoration Initiative** – Restoring breeding grounds  
-- **Citizen Science Portal** – Community-driven wildlife tracking
-
+- **BioClima (https://bioclima.net)** – To establish advanced integrated monitoring systems for climate and biodiversity monitoring that combine in situ observations (including citizen science and professional networks), remote sensing data (satellite, UAVs), and environmental datasets to provide comprehensive, geographically-explicit insights into terrestrial ecosystems in the EU and China.
+- **DTO-Bioflow (https://dto-bioflow.eu)** – The core mission of the DTO-BioFlow Project is to unlock those “sleeping” biodiversity data enabling the sustained flow of these and new data via primary integrators and EMODnet into the EU Digital Twin Ocean. It will create a digital replica of marine biological processes transforming new and existing data flows into evidence-based knowledge. 
+- **SEADITO** – xyz
+- **Oslofjord Twin** – Marine Restoration
+- **Geo4Water** – Marine Restoration
+- **Bedreflyt** – xyz
 ---
 
 ## Featured Publications
