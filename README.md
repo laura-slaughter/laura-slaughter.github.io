@@ -12,7 +12,7 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
 
 ---
 
-## Publications
+## Featured Publications
 
 - Doe, J. (2025). *Amphibian Conservation Methods*. Journal of Ecology  
 - Doe, J. & Smith, A. (2024). *Fieldwork Techniques for Wetlands*. Ecology Reports  
@@ -24,7 +24,8 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
 
 - Email: laura.slaughter[at]gmail.com  
 - LinkedIn: [linkedin.com/in/laura-slaughter](https://linkedin.com/in/laura-slaughter)  
-- Website: laura-slaughter.github.io
+
+## Academic Background & Full List of Publications
 - <a
     id="cy-effective-orcid-url"
     class="underline"
