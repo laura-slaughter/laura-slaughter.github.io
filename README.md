@@ -25,14 +25,7 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
 - Email: laura.slaughter[at]gmail.com  
 - LinkedIn: [linkedin.com/in/laura-slaughter](https://linkedin.com/in/laura-slaughter)  
 - Website: laura-slaughter.github.io
-- <a href="https://www.zotero.org/users/1234567/username" target="_blank" style="display:inline-block; vertical-align:middle;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="#F56C00">
-    <circle cx="12" cy="12" r="12"/>
-    <rect x="8" y="8" width="8" height="8" fill="white"/>
-  </svg>
-</a>
-
-<a
+- <a
     id="cy-effective-orcid-url"
     class="underline"
      href="https://orcid.org/0000-0002-6908-4906"
@@ -45,4 +38,9 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
         alt="ORCID iD icon"/>
       https://orcid.org/0000-0002-6908-4906
     </a>
+- <a href="https://www.zotero.org/users/1234567/username" target="_blank" style="display:inline-block; vertical-align:middle;">
+  <img src="https://www.zotero.org/styles/zotero-16.png" width="16" height="16" alt="Zotero">
+</a>
+
+
     
