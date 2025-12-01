@@ -43,13 +43,29 @@ Hi, I'm Laura Slaughter — a data scientist and researcher.
     href="https://www.zotero.org/users/1234567/username"
     target="_blank"
     rel="me noopener noreferrer"
-    style="vertical-align: top;">
-  <img
-      src="https://www.zotero.org/styles/zotero-16.png"
-      style="width: 1em; margin-inline-start: 0.5em;"
-      alt="Zotero icon"/>
-  https://www.zotero.org/users/1234567/username
+    style="vertical-align: top; display: inline-flex; align-items: center;">
+  
+  <!-- Tiny Zotero "Z" icon -->
+  <span style="
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      background-color: #F56C00; /* Zotero orange */
+      color: white;
+      font-weight: bold;
+      font-family: Arial, sans-serif;
+      font-size: 0.8em;
+      text-align: center;
+      line-height: 1em;
+      border-radius: 2px;
+      margin-inline-start: 0.5em;
+      ">
+      Z
+  </span>
+
+  https://www.zotero.org/laura.slaughter
 </a>
+
 
 
 
