@@ -1,17 +1,17 @@
 # Laura Slaughter
 
-Hi, I'm Laura Slaughter — a data scientist and researcher.
+Hi, I'm Laura Slaughter — I have a background in knowledge engineering, ontology design, data standards, and data integration. My current goals are to create methods and tools that will improve data management and build knowledge through data reuse. I’m curious about how better metadata and data provenance tracking can help data be reused more effectively. I’m especially interested in digital twins and evidence-based decision-making support systems. 
 
 ---
 
 ## Projects
 
-This is a list of projects I am currently involved in:
-- **[BioClima](https://bioclima.net)** – To establish advanced integrated monitoring systems for climate and biodiversity monitoring that combine in situ observations (including citizen science and professional networks), remote sensing data (satellite, UAVs), and environmental datasets to provide comprehensive, geographically-explicit insights into terrestrial ecosystems in the EU and China.
+I’m currently contributing to the following projects:
+- **[BioClima](https://bioclima.net)** – The goal is to establish advanced integrated monitoring systems for climate and biodiversity monitoring that combine in situ observations (including citizen science and professional networks), remote sensing data (satellite, UAVs), and environmental datasets to provide comprehensive, geographically-explicit insights into terrestrial ecosystems in the EU and China.
 - **[DTO-Bioflow](https://dto-bioflow.eu)** – The core mission of the DTO-BioFlow Project is to unlock those “sleeping” biodiversity data enabling the sustained flow of these and new data via primary integrators and EMODnet into the EU Digital Twin Ocean. It will create a digital replica of marine biological processes transforming new and existing data flows into evidence-based knowledge. 
-- **[SEADITO](https://seadito.eu)** – SEADITO, addressing the Horizon Europe call HORIZON-MISS-2023-OCEAN-01-8, focuses on developing analytical methods and tools for the EU DTO. It integrates social-ecological models to establish a comprehensive decision support platform.
+- **[SEADITO](https://seadito.eu)** – The project focuses on developing analytical methods and tools for the EU DTO. It integrates social-ecological models to establish a comprehensive decision support platform.
 - **[Oslofjord Twin](https://ebjohnsen.org/project/oslofjord/)** – The project's goal is to demonstrate the potential of digital twins to understand the effects of climatic stressors on marine systems, as an instrument to monitor these climatic stressors in near real time, and to explore thresholds in the ecosystem for the effect of climatic stressors through “what-if” experiments using digital twin technology. 
-- **[Geo4Water](https://www.ds4sscc.eu/geo4water)** – Validate and refine the DS4SSCC blueprint by enabling city managers to better monitor and respond to water-related emergencies and climate change impacts through data-driven solutions.
+- **[Geo4Water](https://www.ds4sscc.eu/geo4water)** – The goal of the project is to validate and refine the DS4SSCC blueprint by enabling city managers to better monitor and respond to water-related emergencies and climate change impacts through data-driven solutions.
 - **[Bedreflyt](https://www.mn.uio.no/ifi/english/research/projects/bedreflyt/)** – The BedreFlyt digital twin aims to aid hospital staff with resource planning in a ward by solving the problem of room allocations for an incoming stream of patients.
 
 ---
