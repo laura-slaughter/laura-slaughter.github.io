@@ -1,6 +1,7 @@
 # Laura Slaughter
 
-Hi, I'm Laura Slaughter — I have a background in knowledge engineering, ontology design, data standards, and data integration. My current goals are to create methods and tools that will improve data management and build knowledge through data reuse. I’m curious about how better metadata and data provenance tracking can help data be reused more effectively. I’m especially interested in digital twins and evidence-based decision-making support systems. 
+Hi, I'm Laura Slaughter — 
+I work in knowledge engineering, ontology design, data standards, and data integration. I focus on building methods and tools that improve data management and make knowledge easier to reuse. I’m particularly interested in how metadata quality and data provenance tracking can unlock more effective reuse of data. My current work explores digital twins and evidence-based decision support systems.
 
 ---
 I've done this type of work across a number of domains: clinical decision support, precision medicine, biodiversity monitoring, theology (digital humanties). The domain changes; the core problems to solve stay the same — how do you organize heterogeneous information so that different communities can share it, trust it, and build on it over time?
