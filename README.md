@@ -3,42 +3,22 @@
 Hi, I'm Laura Slaughter — I have a background in knowledge engineering, ontology design, data standards, and data integration. My current goals are to create methods and tools that will improve data management and build knowledge through data reuse. I’m curious about how better metadata and data provenance tracking can help data be reused more effectively. I’m especially interested in digital twins and evidence-based decision-making support systems. 
 
 ---
+I've done this type of work across a number of domains: clinical decision support, precision medicine, biodiversity monitoring, theology (digital humanties). The domain changes; the core problems to solve stay the same — how do you organize heterogeneous information so that different communities can share it, trust it, and build on it over time?
 
-## Projects
+If you're working on any of that — in science, publishing, cultural heritage, environmental data, open knowledge infrastructure — I'd like to hear what you're doing.
+---
 
-I’m currently contributing to the following projects:
-- **[BioClima](https://bioclima.net)** – The goal is to establish advanced integrated monitoring systems for climate and biodiversity monitoring that combine in situ observations (including citizen science and professional networks), remote sensing data (satellite, UAVs), and environmental datasets to provide comprehensive, geographically-explicit insights into terrestrial ecosystems in the EU and China.
-- **[DTO-Bioflow](https://dto-bioflow.eu)** – The core mission of the DTO-BioFlow Project is to unlock those “sleeping” biodiversity data enabling the sustained flow of these and new data via primary integrators and EMODnet into the EU Digital Twin Ocean. It will create a digital replica of marine biological processes transforming new and existing data flows into evidence-based knowledge. 
-- **[SEADITO](https://seadito.eu)** – The project focuses on developing analytical methods and tools for the EU DTO. It integrates social-ecological models to establish a comprehensive decision support platform.
-- **[Oslofjord Twin](https://ebjohnsen.org/project/oslofjord/)** – The project's goal is to demonstrate the potential of digital twins to understand the effects of climatic stressors on marine systems, as an instrument to monitor these climatic stressors in near real time, and to explore thresholds in the ecosystem for the effect of climatic stressors through “what-if” experiments using digital twin technology. 
-- **[Geo4Water](https://www.ds4sscc.eu/geo4water)** – The goal of the project is to validate and refine the DS4SSCC blueprint by enabling city managers to better monitor and respond to water-related emergencies and climate change impacts through data-driven solutions.
-- **[Bedreflyt](https://www.mn.uio.no/ifi/english/research/projects/bedreflyt/)** – The BedreFlyt digital twin aims to aid hospital staff with resource planning in a ward by solving the problem of room allocations for an incoming stream of patients.
+
+Data governance & standards · Knowledge organization · Data provenance · FAIR principles · Digital twins · Open science infrastructure · Evidence-based decision support · Human-in-the-loop AI
 
 ---
 
-## Contact
+**Currently:** Senior Research Scientist at SINTEF Digital and the University of Oslo, working on knowledge and provenance layers for environmental digital twins — EU-funded projects in marine and terrestrial biodiversity, climate monitoring, and smart water management.
 
-- Email: laura.slaughter[at]gmail.com  
-- LinkedIn: [linkedin.com/in/laura-slaughter](https://linkedin.com/in/laura-slaughter)  
+---
 
-## Academic Background & Full List of Publications
-- <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-6908-4906"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-6908-4906
-    </a>
-- <a href="https://www.zotero.org/laura.slaughter" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/891917?s=200&v=4" width="16" height="16" style="vertical-align:middle; margin-right:4px;">
-  https://www.zotero.org/laura.slaughter
-</a>
+[laura.slaughter@gmail.com](mailto:laura.slaughter@gmail.com) · [LinkedIn](https://linkedin.com/in/laura-slaughter) · [ORCID](https://orcid.org/0000-0002-6908-4906) · [Zotero](https://www.zotero.org/laura.slaughter)
+
 
 
 
