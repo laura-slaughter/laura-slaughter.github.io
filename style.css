@@ -54,6 +54,24 @@ h1 {
   margin-bottom: 0.15rem;
 }
 
+/* ── Contact line under name ── */
+.contact-line {
+  font-size: 0.82rem;
+  color: var(--ink-muted);
+  margin-top: 0.4rem;
+  line-height: 1.6;
+}
+
+.contact-line a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 0.5px solid var(--accent-lt);
+  padding-bottom: 1px;
+  transition: color 0.15s;
+}
+
+.contact-line a:hover { color: #244a20; }
+
 /* ── Photo ── */
 .photo-wrap {
   flex-shrink: 0;
