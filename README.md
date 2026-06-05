@@ -1,4 +1,5 @@
 # Laura Slaughter
+<img src="assets/images/me_w_henry.png" style="max-width:250px; height:auto;">
 
 Hi, I'm Laura Slaughter — 
 I work in knowledge engineering, ontology design, data standards, and data integration. I focus on building methods and tools that improve data management and make knowledge easier to reuse. I’m particularly interested in how metadata quality and data provenance tracking can unlock more effective reuse of data. My current work explores digital twins and evidence-based decision support systems.
