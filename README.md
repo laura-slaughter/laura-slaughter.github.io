@@ -6,6 +6,7 @@ Hi, I'm Laura Slaughter — I have a background in knowledge engineering, ontolo
 I've done this type of work across a number of domains: clinical decision support, precision medicine, biodiversity monitoring, theology (digital humanties). The domain changes; the core problems to solve stay the same — how do you organize heterogeneous information so that different communities can share it, trust it, and build on it over time?
 
 If you're working on any of that — in science, publishing, cultural heritage, environmental data, open knowledge infrastructure — I'd like to hear what you're doing.
+
 ---
 
 
