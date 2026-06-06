@@ -93,13 +93,13 @@ h1 {
 /* ── Photo ── */
 .photo-wrap {
   flex-shrink: 0;
-  width: 110px;
-  height: 110px;
+  width: 160px;
+  height: 160px;
 }
 
 .photo-wrap img {
-  width: 110px;
-  height: 110px;
+  width: 160px;
+  height: 160px;
   object-fit: cover;
   border-radius: 18px;
   display: block;
@@ -154,7 +154,7 @@ hr {
 @media (max-width: 480px) {
   body { padding: 2.5rem 1.1rem 4rem; }
   h1 { font-size: 1.75rem; }
-  .photo-wrap, .photo-wrap img { width: 80px; height: 80px; }
+  .photo-wrap, .photo-wrap img { width: 100px; height: 100px; }
   .photo-wrap img { border-radius: 14px; }
   .blurb { font-size: 0.88rem; }
 }
